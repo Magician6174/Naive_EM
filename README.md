@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Magician6174/Readme_Template">
+  <a href="https://github.com/Magician6174/Naive_EM">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -19,14 +19,14 @@
   <p align="center">
     A Template for GitHub Readme.md
     <br />
-    <a href="https://github.com/Magician6174/Readme_Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Magician6174/Naive_EM"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Magician6174/Readme_Template">View Demo</a>
+    <a href="https://github.com/Magician6174/Naive_EM">View Demo</a>
     ·
-    <a href="https://github.com/Magician6174/Readme_Template/issues">Report Bug</a>
+    <a href="https://github.com/Magician6174/Naive_EM/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Magician6174/Readme_Template/issues">Request Feature</a>
+    <a href="https://github.com/Magician6174/Naive_EM/issues">Request Feature</a>
   </p>
 </div>
 
@@ -127,7 +127,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] English
     - [ ] Spanish
 
-See the [open issues](https://github.com/Magician6174/Readme_Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Magician6174/Naive_EM/issues) for a full list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -153,7 +153,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Magician6174 - [My Email](mailto:himanshumagician@gmail.com)
 
-Project Link: [Readme_Template](https://github.com/Magician6174/Readme_Template)
+Project Link: [Naive_EM](https://github.com/Magician6174/Naive_EM)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
@@ -167,16 +167,16 @@ Project Link: [Readme_Template](https://github.com/Magician6174/Readme_Template)
 
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/Magician6174/Readme_Template.svg?label=CONTRIBUTORS&logo=github&style=flat-square
-[contributors-url]: https://github.com/Magician6174/Readme_template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Magician6174/Readme_Template.svg?label=FORKS&logo=GITHUB&style=flat-square
-[forks-url]: https://github.com/Magician6174/Readme_Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/Magician6174/Readme_Template.svg?label=STARS&logo=github&style=flat-square
-[stars-url]: https://github.com/Magician6174/Readme_Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Magician6174/Readme_Template.svg?label=ISSUES&logo=GITHUB&style=flat-square
-[issues-url]: https://github.com/Magician6174/Readme_Template/issues
-[license-shield]: https://img.shields.io/github/license/Magician6174/Readme_Template.svg?label=LICENSE&logo=github
-[license-url]: https://github.com/Magician6174/Readme_Template/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/Magician6174/Naive_EM.svg?label=CONTRIBUTORS&logo=github&style=flat-square
+[contributors-url]: https://github.com/Magician6174/Naive_EM/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Magician6174/Naive_EM.svg?label=FORKS&logo=GITHUB&style=flat-square
+[forks-url]: https://github.com/Magician6174/Naive_EM/network/members
+[stars-shield]: https://img.shields.io/github/stars/Magician6174/Naive_EM.svg?label=STARS&logo=github&style=flat-square
+[stars-url]: https://github.com/Magician6174/Naive_EM/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Magician6174/Naive_EM.svg?label=ISSUES&logo=GITHUB&style=flat-square
+[issues-url]: https://github.com/Magician6174/Naive_EM/issues
+[license-shield]: https://img.shields.io/github/license/Magician6174/Naive_EM.svg?label=LICENSE&logo=github
+[license-url]: https://github.com/Magician6174/Naive_EM/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/himanshu-sharma-39689b205/
 [product-screenshot]: images/screenshot.png
