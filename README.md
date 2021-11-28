@@ -14,10 +14,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">README TEMPLATE</h3>
+<h3 align="center">Clustering Algorithm</h3>
 
   <p align="center">
-    A Template for GitHub Readme.md
+    Clustering Algorithm using Kmeans & EM Gaussian Mixture Model.
     <br />
     <a href="https://github.com/Magician6174/Naive_EM"><strong>Explore the docs »</strong></a>
     <br />
@@ -30,9 +30,9 @@
   </p>
 </div>
 
-> Subtitle or Short Description Goes Here
+> Clustering Algorithm for 2d dataset.
 
-> include terms/tags that can be searched
+> Clustering Algorithms, EM Algorithm, Kmeans Algorithm
 
 
 <!-- TABLE OF CONTENTS -->
@@ -48,12 +48,11 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#how-to-run">How to run</a></li>
+        <!-- <li><a href="#installation">Installation</a></li> -->
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#results">Results</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -64,17 +63,18 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
+In this project we will compare clustering obtained via K-means to the (soft) clustering induced by EM. 
 
 
 ### Built With
 This project was built with 
 
-* Example
-* python --version
-* [Next.js](https://nextjs.org/)
+* Python 3.8.10
+* [Numpy](https://numpy.org/)
+* [Matplotlib](https://matplotlib.org/)
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -87,8 +87,21 @@ Clone the repository into a local machine using
 ```shell
 git clone https://github.com/Magician6174/bleh-ble-bleh
 ```
+### How to run
 
-### Prerequisites
+* For kmeans algorithm run
+  ```sh
+  python kmeans_main.py
+  ```
+  When you run the above command a random value for K and seed will be chosen. And the results are plotted.
+
+* For EM Algorithm run
+  ```sh
+  python em_main.py
+  ```
+  In EM you can chose between with_bic & without_bic by making ```WITH_BIC = True or False```. BIC is Bayesian Information Criterion for model selection.
+
+<!-- ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
 * pip
@@ -106,17 +119,18 @@ This is an example of how to list things you need to use the software and how to
 1. Step 1
 2. Step 2
 3. ...
-4. ...
+4. ... -->
 
-## Usage
+## Results
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Below is the output for Kmeans and EM Algorithm for 2d Dataset.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+|       KMeans Algorithm                      |       EM Algorithm                          |
+| :-----------------------------------------: | :-----------------------------------------: |
+|    ![1](./images/Kmeans.jpg)                |    ![2](./images/EM.jpg)                    |
 
 <!-- ROADMAP -->
-## Roadmap
+<!-- ## Roadmap
 
 - [x] Add Changelog
 - [x] Add back to top links
@@ -127,7 +141,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] English
     - [ ] Spanish
 
-See the [open issues](https://github.com/Magician6174/Naive_EM/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Magician6174/Naive_EM/issues) for a full list of proposed features (and known issues). -->
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -158,9 +172,9 @@ Project Link: [Naive_EM](https://github.com/Magician6174/Naive_EM)
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Othneil Drew](https://github.com/othneildrew)
-* [Img Shields](https://shields.io)
-* [:relieved:]()
+* [Machine Learning](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/lecture-notes/lec16.pdf)
+* [GMM & EM Algorithm](https://people.csail.mit.edu/rameshvs/content/gmm-em.pdf)
+
 
  
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -179,4 +193,4 @@ Project Link: [Naive_EM](https://github.com/Magician6174/Naive_EM)
 [license-url]: https://github.com/Magician6174/Naive_EM/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/himanshu-sharma-39689b205/
-[product-screenshot]: images/screenshot.png
+<!-- [product-screenshot]: images/screenshot.png -->
