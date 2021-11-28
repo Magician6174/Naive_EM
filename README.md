@@ -185,11 +185,11 @@ Project Link: [Naive_EM](https://github.com/Magician6174/Naive_EM)
 [contributors-url]: https://github.com/Magician6174/Naive_EM/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Magician6174/Naive_EM?label=FORKS&logo=GITHUB&style=flat-square
 [forks-url]: https://github.com/Magician6174/Naive_EM/network/members
-[stars-shield]: https://img.shields.io/github/stars/Magician6174/Naive_EM.svg?label=STARS&logo=github&style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/Magician6174/Naive_EM?label=STARS&logo=github&style=flat-square
 [stars-url]: https://github.com/Magician6174/Naive_EM/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Magician6174/Naive_EM.svg?label=ISSUES&logo=GITHUB&style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/Magician6174/Naive_EM?label=ISSUES&logo=GITHUB&style=flat-square
 [issues-url]: https://github.com/Magician6174/Naive_EM/issues
-[license-shield]: https://img.shields.io/github/license/Magician6174/Naive_EM.svg?label=LICENSE&logo=github
+[license-shield]: https://img.shields.io/github/license/Magician6174/Naive_EM?label=LICENSE&logo=github
 [license-url]: https://github.com/Magician6174/Naive_EM/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/himanshu-sharma-39689b205/
