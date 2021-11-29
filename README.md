@@ -185,7 +185,7 @@ Project Link: [Naive_EM](https://github.com/Magician6174/Naive_EM)
 [contributors-url]: https://github.com/Magician6174/Naive_EM/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Magician6174/Naive_EM?label=FORKS&logo=GITHUB&style=flat-square
 [forks-url]: https://github.com/Magician6174/Naive_EM/network/members
-[stars-shield]: https://img.shields.io/github/stars/Magician6174/Naive_EM.svg?label=STARS&logo=github&style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/Magician6174/Naive_EM?label=STARS&logo=github&style=flat-square
 [stars-url]: https://github.com/Magician6174/Naive_EM/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Magician6174/Naive_EM?label=ISSUES&logo=GITHUB&style=flat-square
 [issues-url]: https://github.com/Magician6174/Naive_EM/issues
